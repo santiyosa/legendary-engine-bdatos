@@ -95,3 +95,5 @@ INSERT INTO propiedadpersona (idpropiedad, idpersona) VALUES
 
 
 --procedimiento
+
+--Este es el archivo de santi
