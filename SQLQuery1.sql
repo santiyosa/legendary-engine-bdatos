@@ -89,3 +89,9 @@ INSERT INTO propiedadpersona (idpropiedad, idpersona) VALUES
 (4, 6), -- María es arrendataria de la propiedad 4
 (5, 1), -- Carlos es propietario de la propiedad 5
 (6, 6); -- María es arrendataria de la propiedad 6
+
+
+--inner join
+
+
+--procedimiento
